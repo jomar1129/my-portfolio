@@ -20,7 +20,7 @@ const NavBar = () => {
   return (
     <>
       <nav>
-        <h1>JOSE.</h1>
+        <h1>JOMAR.</h1>
         <Hamburger
           toggled={isOpen}
           toggle={setOpen}
